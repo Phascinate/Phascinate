@@ -6,9 +6,9 @@ Today, I focus on building Android apps, desktop applications, and web solutions
 
 Coding Skills:
 
-1. C#
-2. Kotlin
-3. Java
+1. Kotlin
+2. Java
+3. C#
 4. C++
 5. ASP.NET
 6. Python
