@@ -14,7 +14,7 @@ Coding Skills:
 6. Python
 7. HTML
 
-Education: Spartanburg Community College
+Education: Spartanburg Community College, University of South Caroina Upstate
 
 <!--
 **Phascinate/Phascinate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
