@@ -1,4 +1,4 @@
-Hi, my name is Michael Lee, and I'm a software and app developer! I recently received my AAS from Spartanburg Community College and am working hard towards a BS in Computer Science at University of South Carolina Upstate.
+Hi, my name is Michael Lee, and I'm a software and app developer! I recently received my AAS from Spartanburg Community College and am working hard towards a BS in Computer Science at the University of South Carolina Upstate.
 
 I have been programming since I was 13, releasing my first app at 15 years old. Since then, I have loved to create things. I like to think of myself like a sculptor, and code is my clay!
 
